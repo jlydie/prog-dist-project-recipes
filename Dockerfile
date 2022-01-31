@@ -1,7 +1,7 @@
 FROM node:10
 
 # Create app directory
-WORKDIR /Users/lydiejeyaranjan/Desktop/recipes-2
+WORKDIR /Users/lydiejeyaranjan/Desktop/recipes
 
 # Install app dependencies
 # A wildcard is used to ensure both package.json AND package-lock.json are copied
